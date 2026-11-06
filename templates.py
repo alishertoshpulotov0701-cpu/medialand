@@ -5,6 +5,7 @@ INDEX_HTML = """
 <html lang="uz">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="geFdhlqFqWC7cdKBlYr_ncuSIwJ6R0DFoz-c6xsGAzA" />
     <title>Bizning Dokon - Bosh sahifa</title>
     <style>
         /* Asosiy sozlamalar va sahifa yuklanish animatsiyasi */
